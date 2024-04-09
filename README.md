@@ -2,6 +2,8 @@
 
 Welcome to our React Native Movie Catalog App! This application serves as a comprehensive catalog of movies powered by The Movie DB (TMDB). It utilizes React Native without Expo, incorporating Vector Icons for iconography, environment variables for configuration management, and the React Native Bear Project for seamless development.
 
+[untitled.webm](https://github.com/kevinShogun/06-moviesApp/assets/54457637/988e4eea-d640-4def-8083-a1dc3ced7454)
+
 ### Key Features
 
 - **The Movie DB Integration:** Access a vast collection of movies from The Movie DB API.
